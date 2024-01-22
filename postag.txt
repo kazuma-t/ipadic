@@ -1,0 +1,91 @@
+IPA POS code in Japanese and English by Dr. Francis Bond
+
+0	BOS/EOS	BOS/EOS
+1	名詞	noun	NN
+2	名詞-一般	noun-common	NN	
+3	名詞-固有名詞	noun-proper	NNP
+4	名詞-固有名詞-一般	noun-proper-misc	NNP
+5	名詞-固有名詞-人名	noun-proper-person	NNP
+6	名詞-固有名詞-人名-一般	noun-proper-person-misc	NNP
+7	名詞-固有名詞-人名-姓	noun-proper-person-surname	NNP
+8	名詞-固有名詞-人名-名	noun-proper-person-given_name	NNP
+9	名詞-固有名詞-組織	noun-proper-organization	NNP
+10	名詞-固有名詞-地域	noun-proper-place	NNP
+11	名詞-固有名詞-地域-一般	noun-proper-place-misc	NNP
+12	名詞-固有名詞-地域-国	noun-proper-place-country	NNP
+13	名詞-代名詞	noun-pronoun	PRP
+14	名詞-代名詞-一般	noun-pronoun-misc	PRP
+15	名詞-代名詞-縮約	noun-pronoun-contraction	PRP
+16	名詞-副詞可能	noun-adverbial
+17	名詞-サ変接続	noun-verbal
+18	名詞-形容動詞語幹	noun-adjective
+19	名詞-数	noun-numeral	
+20	名詞-非自立	noun-affix
+21	名詞-非自立-一般	noun-affix-misc
+22	名詞-非自立-副詞可能	noun-affix-adverbial
+23	名詞-非自立-助動詞語幹	noun-affix-aux
+24	名詞-非自立-形容動詞語幹	noun-affix-adjective
+25	名詞-特殊	noun-special
+26	名詞-特殊-助動詞語幹	noun-special-aux
+27	名詞-接尾	noun-suffix
+28	名詞-接尾-一般	noun-suffix-misc
+29	名詞-接尾-人名	noun-suffix-person
+30	名詞-接尾-地域	noun-suffix-place
+31	名詞-接尾-サ変接続	noun-suffix-verbal
+32	名詞-接尾-助動詞語幹	noun-suffix-aux
+33	名詞-接尾-形容動詞語幹	noun-suffix-adjective
+34	名詞-接尾-副詞可能	noun-suffix-adverbal
+35	名詞-接尾-助数詞	noun-suffix-classifier
+36	名詞-接尾-特殊	noun-suffix-special
+37	名詞-接続詞的	noun-suffix-conjunctive
+38	名詞-動詞非自立的	noun-verbal_aux
+39	名詞-引用文字列	noun-quote
+40	名詞-ナイ形容詞語幹	noun-nai_adjective
+41	接頭詞	prefix
+42	接頭詞-名詞接続	prefix-nominal
+43	接頭詞-動詞接続	prefix-verbal
+44	接頭詞-形容詞接続	prefix-adjectival
+45	接頭詞-数接続	prefix-numerical
+46	動詞	verb
+47	動詞-自立	verb-main
+48	動詞-非自立	verb-aux
+49	動詞-接尾	verb-suffix
+50	形容詞		adjective
+51	形容詞-自立	adjective-main
+52	形容詞-非自立	adjective-aux
+53	形容詞-接尾	adjective-suffix
+54	副詞	adverb
+55	副詞-一般	adverb-misc
+56	副詞-助詞類接続		adverb-particle_conjunction
+57	連体詞	adnominal
+58	接続詞	conjunction
+59	助詞	particle
+60	助詞-格助詞	particle-case
+61	助詞-格助詞-一般	particle-case-misc
+62	助詞-格助詞-引用	particle-case-quote
+63	助詞-格助詞-連語	particle-case-compound
+64	助詞-接続助詞	particle-conjunctive
+65	助詞-係助詞	particle-dependency
+66	助詞-副助詞	particle-adverbial
+67	助詞-間投助詞	particle-interjective
+68	助詞-並立助詞	particle-coordinate
+69	助詞-終助詞	particle-final
+70	助詞-副助詞／並立助詞／終助詞	particle-adverbial/conjunctive/final
+71	助詞-連体化	particle-adnominalizer
+72	助詞-副詞化	particle-adverbializer
+73	助詞-特殊	particle-special
+74	助動詞	aux
+75	感動詞	exclamation
+76	記号	symbol
+77	記号-一般	symbol-misc
+78	記号-句点	symbol-comma
+79	記号-読点	symbol-period
+80	記号-空白	symbol-space
+81	記号-アルファベット	symbol-alphabetic
+82	記号-括弧開	symbol-left_parenthesis
+83	記号-括弧閉	symbol-right_parenthesis
+84	その他	other
+85	その他-間投	other-interjection
+86	フィラー	filler
+87	非言語音	nonlinguistic_sound
+88	語断片	fragment
