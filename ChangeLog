@@ -1,3 +1,42 @@
+2003-06-12  Masayuki Asahara  <masayu-a@is.aist-nara.ac.jp>
+
+	* Makefile.am configure.in: 
+	remove entries for .pat .ary
+    -i option for makeint, makemat (chasen-2.3.1)
+	
+2003-06-11  Masayuki Asahara  <masayu-a@is.aist-nara.ac.jp>
+
+	* Manual Modified
+	typo 
+
+2003-06-10  Masayuki Asahara  <masayu-a@is.aist-nara.ac.jp>
+
+	* Manual Modified
+
+	* Added Dictionary entries 
+	http://chasen.aist-nara.ac.jp/~masayu-a/ipadic/arch/ipadic-2.6.0-add.txt
+	
+2003-06-05  Masayuki Asahara  <masayu-a@is.aist-nara.ac.jp>
+
+	* Manual Modified
+	texi files are replaced by tex file
+
+2003-06-04  Masayuki Asahara  <masayu-a@is.aist-nara.ac.jp>
+
+	* Dictionary entries and Parameters updated
+	thanks to Prof. Tsurumaru (nagasaki-u)
+	http://chasen.aist-nara.ac.jp/~masayu-a/ipadic/arch/ipadic-2.6.0-diff.txt
+
+2002-11-29  Masayuki Asahara  <masayu-a@is.aist-nara.ac.jp>
+
+	* Makefile.am chasenrc.in configure.in
+	modification for makeda (double array dictionary looking up module)
+
+2002-01-30  Masayuki Asahara  <masayu-a@is.aist-nara.ac.jp>
+
+	* parameter modified 
+	"mada" problems
+
 2002-01-26  Masayuki Asahara  <masayu-a@is.aist-nara.ac.jp>
 
 	* modified documents
@@ -103,7 +142,7 @@
 
 2001-02-28  Masayuki Asahara  <masayu-a@is.aist-nara.ac.jp>
 
-	* chasenrc.in: uncomment (Ê¸Ë¡¥Õ¥¡¥¤¥ë ...)
+	* chasenrc.in: uncomment (æ–‡æ³•ãƒ•ã‚¡ã‚¤ãƒ« ...)
 
 2001-02-27  Masayuki Asahara  <masayu-a@is.aist-nara.ac.jp>
 
