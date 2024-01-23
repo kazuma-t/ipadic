@@ -1,13 +1,39 @@
-2001-03-21  Masayuki Asahara  <masayu-a@is.aist-nara.ac.jp>
+2001-04-11  Masayuki Asahara  <masayu-a@is.aist-nara.ac.jp>
 
-	* Makefile.am: modifications for packaging matter
+	* Makefile.bat: 
+	* Makefile.am: 
 
-2001-03-19  Masayuki Asahara  <masayu-a@is.aist-nara.ac.jp>
+	SJIS(LF -> CRLF)
+	
+	* Noun.verbal.dic
+	* Noun.org.dic
 
-	* document modification for release-2.4.4
+	Japanese Reading Modification
+
+2001-03-15  Masayuki Asahara  <masayu-a@is.aist-nara.ac.jp>
+
+	* script/dic-en.pl : 
+	* *.dic :
+	* chasenrc.in :
+
+	Changed to English format
+
+2001-03-13  Masayuki Asahara  <masayu-a@is.aist-nara.ac.jp>
+
+	* Makefile.am (en-dist): 
+	* data/grammar.tbl
+	* data/ctypes.tbl
+	* data/cforms.tbl
+	* script/dic-en.pl
+	* script/conn-en.pl
+	English POS translation
+
+	* NEWS
+	* NEWS-ja
+	moved Japanese information from NEWS to NEWS-ja
 
 2001-03-02  Masayuki Asahara  <masayu-a@is.aist-nara.ac.jp>
-	* parameter setting for release-2.4.4
+	parameter setting for release-2.4.4
 	
 2001-03-02  Masayuki Asahara  <masayu-a@is.aist-nara.ac.jp>
 	* Makefile.am : 
