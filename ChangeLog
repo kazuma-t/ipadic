@@ -1,3 +1,40 @@
+2001-03-21  Masayuki Asahara  <masayu-a@is.aist-nara.ac.jp>
+
+	* Makefile.am: modifications for packaging matter
+
+2001-03-19  Masayuki Asahara  <masayu-a@is.aist-nara.ac.jp>
+
+	* document modification for release-2.4.4
+
+2001-03-02  Masayuki Asahara  <masayu-a@is.aist-nara.ac.jp>
+	* parameter setting for release-2.4.4
+	
+2001-03-02  Masayuki Asahara  <masayu-a@is.aist-nara.ac.jp>
+	* Makefile.am : 
+	* configure.in :     chasenrc path setting
+	
+2001-02-28  Masayuki Asahara  <masayu-a@is.aist-nara.ac.jp>
+
+	* configure.in : 
+	* Makefile.am :	
+	* doc/Makefile.am :
+	* doc/ipadic-ja.texi :
+	* doc/ipadic-ja.pdf :	
+	* doc/ipadic-v.texi :
+	* doc/texinfo.tex :          move the manual files to doc/
+	                             configurate Makefile.am for texinfo
+
+	* ipadic-ja.texi :           obsolete
+	* ipadic-ja.pdf :	     obsolete
+
+2001-02-28  Masayuki Asahara  <masayu-a@is.aist-nara.ac.jp>
+
+	* chasenrc.in: uncomment (文法ファイル ...)
+
+2001-02-27  Masayuki Asahara  <masayu-a@is.aist-nara.ac.jp>
+
+	* ipadic.spec.in : description & doc modified
+
 2001-02-27  Masayuki Asahara  <masayu-a@is.aist-nara.ac.jp>
 
 	* Makefile.am (chadic.int): sortdic is necesary..
