@@ -1,3 +1,16 @@
+2000-12-07  Masayuki Asahara  <masayu-a@cacao.aist-nara.ac.jp>
+
+	* configure.in: modified `./configure --help`
+
+	* INSTALL-ja: notice about
+	               ./configure --dicdir 
+
+	* Makefile.bat: for Windows
+
+2000-12-06  Masayuki Asahara  <masayu-a@chasen.aist-nara.ac.jp>
+	
+	* ipadic-2.4.0 release
+	
 2000-12-06  Masayuki Asahara  <masayu-a@cacao.aist-nara.ac.jp>
 
 	* manual.tex: modified the date
