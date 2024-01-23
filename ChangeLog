@@ -1,3 +1,17 @@
+2003-11-15  Masayuki Asahara  <masayu-a@is.aist-nara.ac.jp>
+
+	* 記号の整備
+	1 byte 文字列を Onebyte.dic に分離
+
+2003-11-09  Masayuki Asahara  <masayu-a@is.aist-nara.ac.jp>
+
+	* parameter update
+	ctypes.cha の変更
+	cforms.cha の変更
+	「特殊・ドス」
+	「形容詞・イイ」
+	「サ変・スル   未然形」
+
 2003-08-13  Masayuki Asahara  <masayu-a@is.aist-nara.ac.jp>
 
 	* parameter update
