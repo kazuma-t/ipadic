@@ -1,3 +1,9 @@
+2001-02-27  Masayuki Asahara  <masayu-a@is.aist-nara.ac.jp>
+
+	* Makefile.am (chadic.int): sortdic is necesary..
+	* ipadic-ja.texi:
+	* ipadic-ja.pdf:            manual modified
+
 2001-02-24  Masayuki Asahara  <masayu-a@is.aist-nara.ac.jp>
 
 	* Makefile.am: sortdic are obsolete
