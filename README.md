@@ -5,5 +5,5 @@ ipadic の開発は終了しています。
 
 Ipadic is a dictionary for the morphological analyzer “ChaSen”.
 
-Here, we are publishing the same things that ware once developed and published by the Computational Linguistics Laboratory (Matsumoto Laboratory) of Nara Institute of Science and Technology.
+Here, we are publishing the same things that were once developed and published by the Computational Linguistics Laboratory (Matsumoto Laboratory) of Nara Institute of Science and Technology.
 The development of ipadic has ended.
