@@ -1,4 +1,18 @@
-2000-12-07  Masayuki Asahara  <masayu-a@cacao.aist-nara.ac.jp>
+2001-02-24  Masayuki Asahara  <masayu-a@is.aist-nara.ac.jp>
+
+	* Makefile.am: sortdic are obsolete
+	* connent.cha: Connective Postpositions at the preceding positions 
+	               are grouped.
+
+2001-01-04  Masayuki Asahara  <masayu-a@is.aist-nara.ac.jp>
+
+	* Makefile.am: output zip format(make sjis-dist)
+
+2000-12-08  Akira Kitauchi  <kitauchi@rd.nttdata.co.jp>
+
+	* chasenrc.in: Commented out the the line for grammar dir.
+
+2000-12-07  Masayuki Asahara  <masayu-a@is.aist-nara.ac.jp>
 
 	* configure.in: modified `./configure --help`
 
@@ -7,11 +21,11 @@
 
 	* Makefile.bat: for Windows
 
-2000-12-06  Masayuki Asahara  <masayu-a@chasen.aist-nara.ac.jp>
+2000-12-06  Masayuki Asahara  <masayu-a@is.aist-nara.ac.jp>
 	
 	* ipadic-2.4.0 release
 	
-2000-12-06  Masayuki Asahara  <masayu-a@cacao.aist-nara.ac.jp>
+2000-12-06  Masayuki Asahara  <masayu-a@is.aist-nara.ac.jp>
 
 	* manual.tex: modified the date
 
