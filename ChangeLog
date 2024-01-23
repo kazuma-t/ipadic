@@ -1,3 +1,51 @@
+2002-01-26  Masayuki Asahara  <masayu-a@is.aist-nara.ac.jp>
+
+	* modified documents
+
+2002-01-18  Masayuki Asahara  <masayu-a@is.aist-nara.ac.jp>
+
+	* modified dictionary entries is in 
+	http://chasen.aist-nara.ac.jp/~masayu-a/ipadic/arch/ipadic-2.5.1-newword.txt
+
+2001-11-18  Masayuki Asahara  <masayu-a@chasen.aist-nara.ac.jp>
+
+	* "Shiraseru" and "Nakusu" need to reduce cost
+
+2001-10-24  Masayuki Asahara  <masayu-a@is.aist-nara.ac.jp>
+
+	* dictionary update for ipadic-2.5.1-pre5
+	Adnominal Problem
+	"Komaka" removed from Adnominal
+
+2001-10-23  Masayuki Asahara  <masayu-a@is.aist-nara.ac.jp>
+
+	* dictionary update for ipadic-2.5.1-pre4
+	Postp-col.dic
+
+2001-10-23  Masayuki Asahara  <masayu-a@is.aist-nara.ac.jp>
+
+	* dictionary update for ipadic-2.5.1-pre3
+
+2001-10-23  Masayuki Asahara  <masayu-a@is.aist-nara.ac.jp>
+
+	* dictionary update for ipadic-2.5.1-pre2
+
+2001-10-20  Masayuki Asahara  <masayu-a@is.aist-nara.ac.jp>
+
+	* dictionary update for ipadic-2.5.1-pre1
+
+2001-07-01  Taku Kudo  <taku-ku@rice.aist-nara.ac.jp>
+
+	* ipadic.spec.in
+
+	Modify to install chasenrc to /usr/etc/chasenrc 
+
+2001-05-12  Masayuki Asahara  <masayu-a@is.aist-nara.ac.jp>
+
+	* version.cha.in : 
+
+	Add version information
+
 2001-04-11  Masayuki Asahara  <masayu-a@is.aist-nara.ac.jp>
 
 	* Makefile.bat: 
