@@ -1,8 +1,23 @@
+2003-08-13  Masayuki Asahara  <masayu-a@is.aist-nara.ac.jp>
+
+	* parameter update
+
+	http://chasen.aist-nara.ac.jp/~masayu-a/ipadic/arch/ipadic-2.6.3-diff.txt 
+	
+	* doc/ipadic-ja.tex: 
+	Manual Modified
+
+2003-08-08  Masayuki Asahara  <masayu-a@is.aist-nara.ac.jp>
+
+	* parameter update
+	for "NAI" problem
+
+	for postposition
+
 2003-08-04  Masayuki Asahara  <masayu-a@is.aist-nara.ac.jp>
 
 	* parameter update
 	for "NAI" problem
-	thanks to <nihon@nihon.co.kr>
 
 2003-08-01  Masayuki Asahara  <masayu-a@is.aist-nara.ac.jp>
 
